@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CODE\\LapTrinhWeb\\BaiTapQuanLyBanHang\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{37B5B63D-C7EE-432E-B2A2-E3833A8EE56D}|BusinessLayers\\BusinessLayers.csproj|d:\\code\\laptrinhweb\\baitapquanlybanhang\\businesslayers\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37B5B63D-C7EE-432E-B2A2-E3833A8EE56D}|BusinessLayers\\BusinessLayers.csproj|solutionrelative:businesslayers\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30E13313-4837-476B-AE0B-5F3E05BC70C9}|DataLayers\\DataLayers.csproj|d:\\code\\laptrinhweb\\baitapquanlybanhang\\datalayers\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30E13313-4837-476B-AE0B-5F3E05BC70C9}|DataLayers\\DataLayers.csproj|solutionrelative:datalayers\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26DC819C-83AC-42EB-93A5-434A68C0BB34}|DomainModels\\DomainModels.csproj|d:\\code\\laptrinhweb\\baitapquanlybanhang\\domainmodels\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26DC819C-83AC-42EB-93A5-434A68C0BB34}|DomainModels\\DomainModels.csproj|solutionrelative:domainmodels\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\CODE\\LapTrinhWeb\\BaiTapQuanLyBanHang\\BusinessLayers\\Class1.cs",
+              "RelativeDocumentMoniker": "BusinessLayers\\Class1.cs",
+              "ToolTip": "D:\\CODE\\LapTrinhWeb\\BaiTapQuanLyBanHang\\BusinessLayers\\Class1.cs",
+              "RelativeToolTip": "BusinessLayers\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T11:40:37.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\CODE\\LapTrinhWeb\\BaiTapQuanLyBanHang\\DataLayers\\Class1.cs",
+              "RelativeDocumentMoniker": "DataLayers\\Class1.cs",
+              "ToolTip": "D:\\CODE\\LapTrinhWeb\\BaiTapQuanLyBanHang\\DataLayers\\Class1.cs",
+              "RelativeToolTip": "DataLayers\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T11:39:43.211Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\CODE\\LapTrinhWeb\\BaiTapQuanLyBanHang\\DomainModels\\Class1.cs",
+              "RelativeDocumentMoniker": "DomainModels\\Class1.cs",
+              "ToolTip": "D:\\CODE\\LapTrinhWeb\\BaiTapQuanLyBanHang\\DomainModels\\Class1.cs",
+              "RelativeToolTip": "DomainModels\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T11:38:41.08Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
